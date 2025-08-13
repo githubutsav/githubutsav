@@ -55,9 +55,14 @@
 ---
 
 ## 🌟 Experience & Community
-- **Contributor, GirlScript Summer of Code (2025)** – Contributed to open-source with a global community  
-- **Ambassador, GSSoC & LetsUpgrade (2024 - Present)** – Promoting tech literacy & organizing community events  
-- **Member, Google Developer Groups (2025)** – Active in tech talks, hackathons, & study jams  
+
+| Role & Organization | Dates |
+|----------------------|-------|
+| 🛠 **Intern – Rapid Prototyping & Design Thinking** · *Kalam Pragati, AKTU*<br>3D Printing • PCB Design • Figma • Teamwork | 2025 |
+| 💻 **Contributor – GirlScript Summer of Code (GSSoC)**<br>Bug fixes • New features • GitHub workflows | 2025 |
+| 🎯 **Ambassador – GSSoC**<br>Community outreach • Event organization | 2024 – 2025 |
+| 📢 **Student Ambassador – LetsUpgrade**<br>Event promotion • Peer guidance | 2024 – Present |
+
 
 ---
 
