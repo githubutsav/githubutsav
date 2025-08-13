@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/UtsavSingh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Utsav+Singh+👋;Full+Stack+Learner+%7C+AI%2FML+Enthusiast;Data+Engineering+Aspirant+%7C+Builder;Welcome+to+My+GitHub+Profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Utsav+Singh+👋;Developer+%7C+Intern+%40+Kalam+Pragati;Ex-GSSoC+%26+LetsUpgrade+Ambassador;AI%2C+Cloud+%26+Full+Stack;Passionate+Learner+%26+Innovator">
   </a>
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 
