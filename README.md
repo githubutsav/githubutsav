@@ -88,18 +88,21 @@ Developer | Intern @ Kalam Pragati
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=githubutsav&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubutsav&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=UtsavSingh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=githubutsav&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubutsav&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
-## 🌟 GitHub Stats & Stars
+## 🌟 GitHub Stars
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/githubutsav?style=social" alt="GitHub Stars" />
@@ -107,6 +110,7 @@ Developer | Intern @ Kalam Pragati
   <img src="https://img.shields.io/github/issues/githubutsav?style=social" alt="GitHub Issues" />
   <img src="https://img.shields.io/github/forks/githubutsav?style=social" alt="GitHub Forks" />
 </p>
+
 
 ---
 
