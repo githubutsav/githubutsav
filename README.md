@@ -105,10 +105,10 @@ Developer | Intern @ Kalam Pragati
 ## 🌟 GitHub Stars
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/githubutsav?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/githubutsav?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/issues/githubutsav?style=social" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/forks/githubutsav?style=social" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/stars/githubutsav?style=social&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/githubutsav?style=social&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/issues/githubutsav?style=social&label=Issues" alt="GitHub Issues" />
+  <img src="https://img.shields.io/github/forks/githubutsav?style=social&label=Forks" alt="GitHub Forks" />
 </p>
 
 
