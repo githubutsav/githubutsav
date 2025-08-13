@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 
 ## 🚀 About Me
-Developer | Intern @ Kalam Pragati | Ex-GSSoC & LetsUpgrade Ambassador | AI, Cloud & Full Stack | Learner & Innovator
+Developer | Intern @ Kalam Pragati 
 
 🚀 Love building **practical, data-driven solutions**  
 🌱 Constantly learning and exploring **new technologies**  
