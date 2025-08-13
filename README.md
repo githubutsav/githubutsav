@@ -1,5 +1,8 @@
-<!-- Banner or animated typing SVG -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hi,%20I'm%20Utsav%20Singh%20👋&fontSize=40&fontColor=ffffff)
+
+<!-- Animated Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Utsav+Singh+%F0%9F%91%8B;Full+Stack+Learner+%7C+AI%2FML+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -59,4 +62,3 @@
 ---
 
 ⭐ _"Code. Learn. Build. Repeat."_ ⭐
-
