@@ -99,6 +99,13 @@ Developer | Intern @ Kalam Pragati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubutsav&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=githubutsav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false&hide_border=false&card_width=300&hide_title=false&show_icons=true&hide_rank=false&line_height=27&text_color=ffffff&icon_color=58a6ff&bg_color=0d1117&title_color=58a6ff&hide=stars,prs" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=githubutsav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false&hide_border=false&card_width=300&hide_title=false&show_icons=true&hide_rank=false&line_height=27&text_color=ffffff&icon_color=58a6ff&bg_color=0d1117&title_color=58a6ff&hide=stars,prs&show_icons=true&count_private=true&hide_border=false&include_all_commits=false&show_icons=true&hide=prs&count_private=true&include_all_commits=false&show_icons=true&hide_bo_
+
 ---
 
 ## 🏆 GitHub Trophies
