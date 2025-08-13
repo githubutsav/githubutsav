@@ -57,17 +57,29 @@
 
 ## 🌟 Experience & Community
 
-- 🛠 **Intern – Rapid Prototyping & Design Thinking** | *Kalam Pragati, AKTU* <span style="float:right;">Jun 2024 – Aug 2024</span>  
-  3D Printing • PCB Design • Figma • Teamwork  
-
-- 💻 **Contributor – GirlScript Summer of Code (GSSoC)** <span style="float:right;">Mar 2024 – May 2024</span>  
-  Bug fixes • New features • GitHub workflows  
-
-- 🎯 **Ambassador – GSSoC** <span style="float:right;">Apr 2024 – Jun 2024</span>  
-  Community outreach • Event organization  
-
-- 📢 **Student Ambassador – LetsUpgrade** <span style="float:right;">Jan 2024 – Present</span>  
-  Event promotion • Peer guidance  
+<table>
+  <tr>
+    <td>🛠 <strong>Intern – Rapid Prototyping & Design Thinking</strong> | <em>Kalam Pragati, AKTU</em><br>
+    3D Printing • PCB Design • Figma • Teamwork</td>
+    <td align="right">Aug 2025 – Present</td>
+  </tr>
+  <tr>
+    <td>💻 <strong>Contributor – GirlScript Summer of Code (GSSoC)</strong><br>
+    Bug fixes • New features • GitHub workflows</td>
+    <td align="right">Jul 2025 – Present</td>
+  </tr>
+  <tr>
+    <td>🎯 <strong>Ambassador – GSSoC</strong><br>
+    Community outreach • Event organization</td>
+    <td align="right">Jul 2025 – Present</td>
+  </tr>
+  <tr>
+    <td>📢 <strong>Student Ambassador – LetsUpgrade</strong><br>
+    Event promotion • Peer guidance</td>
+    <td align="right">Dec 2024 – Jan 2025 </td>
+  </tr>
+</table>
+ 
 
 
 
