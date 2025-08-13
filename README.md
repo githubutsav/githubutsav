@@ -18,7 +18,7 @@
 
 ## 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,swift,html,css,react,swiftui,nodejs,express,flask,bootstrap,tailwind,materialui,mysql,mongodb,postgresql,firebase,gcp,aws,docker,kubernetes,git,github,linux,vscode,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,swift,html,css,react,nodejs,express,flask,bootstrap,tailwind,materialui,mysql,mongodb,postgresql,firebase,gcp,aws,docker,kubernetes,git,github,linux,vscode,postman&perline=9" />
 </p>
 
 
