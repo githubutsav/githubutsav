@@ -15,17 +15,12 @@
 
 ---
 
-## 🛠️ My Tech Stack
-**Languages:** Python, Java, JavaScript, Swift  
-**Frontend:** HTML, CSS, React, SwiftUI  
-**Backend:** Node.js, Express, Flask  
-**Databases:** MySQL, MongoDB  
-**Cloud & DevOps:** GCP, AWS, Docker, Kubernetes  
-**Tools:** Git, GitHub  
 
+## 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,swift,html,css,react,swiftui,nodejs,express,flask,mysql,mongodb,gcp,aws,docker,kubernetes,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,swift,html,css,react,swiftui,nodejs,express,flask,bootstrap,tailwind,materialui,mysql,mongodb,postgresql,firebase,gcp,aws,docker,kubernetes,git,github,linux,vscode,postman&perline=9" />
 </p>
+
 
 ---
 
