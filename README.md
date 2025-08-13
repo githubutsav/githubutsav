@@ -102,7 +102,7 @@ Developer | Intern @ Kalam Pragati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubutsav&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
-## ⭐ GitHub Highlights
+
 
 ## ⭐ GitHub Highlights
 
