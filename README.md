@@ -102,7 +102,7 @@ Developer | Intern @ Kalam Pragati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubutsav&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
-## 🌟 GitHub Stars
+## ⭐ GitHub Highlights
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/githubutsav?style=social&label=Stars" alt="GitHub Stars" />
@@ -110,6 +110,7 @@ Developer | Intern @ Kalam Pragati
   <img src="https://img.shields.io/github/issues/githubutsav?style=social&label=Issues" alt="GitHub Issues" />
   <img src="https://img.shields.io/github/forks/githubutsav?style=social&label=Forks" alt="GitHub Forks" />
 </p>
+
 
 
 ---
