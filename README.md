@@ -45,82 +45,25 @@
 ---
 
 
-
-## 💼 Experience
-
-
-
-**Google Summer of Code (GSSoC) 2025 — Contributor & Former Ambassador**  
-
-*Jan 2025 – Present*  
-
-- Contributed to multiple open-source projects, resolving issues, adding new features, and improving documentation.  
-
-- Assisted in community engagement and mentoring new contributors as an ambassador.  
-
-
-
-**LetsUpgrade — Student Ambassador**  
-
-*Jan 2025 – Present*  
-
-- Promoted coding challenges and workshops, helping peers upskill in latest technologies.  
-
-- Represented LetsUpgrade in college-level events, boosting participation in tech learning programs.  
-
-
-
-**Google Developer Groups (GDG) — College Member**  
-
-*Dec 2024 – Present*  
-
-- Participated in hackathons, code labs, and DevFest events.  
-
-- Collaborated with fellow developers on cloud and AI-based projects.
-
-
+### 💼 Experience
+| Role | Organization | Year |
+|------|--------------|------|
+| **Contributor** | GirlScript Summer of Code | 2025 |
+| **Ambassador** | LetsUpgrade | 2025 |
+| **Former Ambassador** | GSSoC | 2024 |
+| **GDG Member** | Google Developer Groups | 2025 |
 
 ---
 
+### 📂 Projects
+| Name | Description |
+|------|-------------|
+| **Habit-One** | Terminal-based habit tracker built in Python during CS50P |
+| **AI Text Summarizer** | Node.js + Hugging Face API for text summarization |
+| **Cloud Deployment Demos** | GCP & AWS based deployments of sample apps |
+| **React Native App** | Mobile app from development to Play Store deployment |
 
-
-## 📌 Featured Projects
-
-
-
-### **[Habit-One](https://github.com/UtsavSingh/habit-one)**  
-
-📜 *A terminal-based habit tracker to help users develop and maintain daily habits.*  
-
-🛠 **Tech Stack:** Python, Object-Oriented Programming, File Handling  
-
-🏆 Built as part of Harvard’s CS50P course.  
-
-
-
----
-
-
-
-### **AI Text Summarizer**  
-
-📜 *A web app that summarizes text instantly using Hugging Face Inference API.*  
-
-🛠 **Tech Stack:** Node.js, Express.js, Hugging Face API, HTML, CSS, JavaScript  
-
-✨ *Features:* Customizable summary length, responsive UI, and real-time results.  
-
-
-
----
-
-
-
-### **Upcoming Projects 🚀**  
-
-- **Personal Finance Tracker** – Track expenses, visualize trends, and set savings goals (MERN Stack + Charts.js).  
-
-- **AI Resume Analyzer** – Score resumes based on job descriptions using NLP and ML.  
+--- 
 
 
 
