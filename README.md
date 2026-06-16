@@ -1,4 +1,3 @@
-````markdown
 # Utsav Singh
 
 ```bash
