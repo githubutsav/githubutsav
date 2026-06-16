@@ -72,14 +72,13 @@ Repeat.
 ```
 ---
 ## > connect
-`
 
 SIGNAL 01 → [linkedin.com/in/utsavsinghx](https://linkedin.com/in/utsavsinghx)
 
 SIGNAL 02 → [x.com/utsavsingh_](https://x.com/utsavsingh_)
 
 SIGNAL 03 → [utsav0111@gmail.com](mailto:utsav0111@gmail.com)
-`
+
 
 ---
 
