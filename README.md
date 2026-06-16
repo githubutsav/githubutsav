@@ -1,93 +1,91 @@
-<p align="center">
-  <a href="https://github.com/UtsavSingh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Utsav+Singh+👋;Developer+%7C+Intern+%40+Kalam+Pragati;Ex-GSSoC+%26+LetsUpgrade+Ambassador;AI%2C+Cloud+%26+Full+Stack;Passionate+Learner+%26+Innovator">
-  </a>
-</p>
+```bash
+> developer.profile
 
+Loading developer profile...
+[████████████████████] 100%
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+Access Granted.
+```
 
-## 🚀 About Me
-Developer | Intern @ Kalam Pragati 
+# Utsav Singh
 
-🚀 Love building **practical, data-driven solutions**  
-🌱 Constantly learning and exploring **new technologies**  
-🤝 Advocate for **open-source** & active in developer communities  
-📍 Based in India  
+### Building things, breaking things, learning things.
 
----
-
-
-## 🛠️ My Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,swift,html,css,react,nodejs,express,flask,bootstrap,tailwind,materialui,mysql,mongodb,postgresql,firebase,gcp,aws,docker,kubernetes,git,github,linux,vscode,postman&perline=9" />
-</p>
-
+```cpp
+while(alive){
+    learn();
+    build();
+    improve();
+}
+```
 
 ---
 
-## 📂 My Recent Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Text Summarizer</h3>
-      <p>Leverages Hugging Face API + Node.js to condense long articles into concise summaries.</p>
-      <a href="https://github.com/UtsavSingh/AI-Text-Summarizer">🔗 Source Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Habit-One</h3>
-      <p>A terminal-based habit tracker built with Python, final project for Harvard's CS50P.</p>
-      <a href="https://github.com/UtsavSingh/Habit-One">🔗 Source Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud Deployment Demos</h3>
-      <p>Scalable web apps deployed on GCP & AWS with CI/CD & IaC principles.</p>
-      <a href="#">🔗 Source Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 React Native Mobile App</h3>
-      <p>Cross-platform mobile app, deployed successfully on Google Play Store.</p>
-      <a href="#">🔗 Source Code</a>
-    </td>
-  </tr>
-</table>
+> whoami
+
+```yaml
+name: Utsav Singh
+
+role: Developer
+
+interests:
+  - Coding
+  - Gym
+
+mission:
+  Learn by building.
+
+status:
+  Learning in public.
+```
 
 ---
 
+> achievements.scan
 
-## 🌟 Experience & Community
+```text
+CodeBlitz National Hackathon .......... 🥈 Rank #2 (OSEN)
 
-<table>
-  <tr>
-    <td>🛠 <strong>Intern – Rapid Prototyping & Design Thinking</strong> | <em>Kalam Pragati, AKTU</em><br>
-    3D Printing • PCB Design • Figma • Teamwork</td>
-    <td align="right">Aug 2025 – Present</td>
-  </tr>
-  <tr>
-    <td>💻 <strong>Contributor – GirlScript Summer of Code (GSSoC)</strong><br>
-    Bug fixes • New features • GitHub workflows</td>
-    <td align="right">Jul 2025 – Present</td>
-  </tr>
-  <tr>
-    <td>🎯 <strong>Ambassador – GSSoC</strong><br>
-    Community outreach • Event organization</td>
-    <td align="right">Jul 2025 – Present</td>
-  </tr>
-  <tr>
-    <td>📢 <strong>Student Ambassador – LetsUpgrade</strong><br>
-    Event promotion • Peer guidance</td>
-    <td align="right">Dec 2024 – Jan 2025 </td>
-  </tr>
-</table>
- 
+Agentic Premier League ................ 🥈 Rank #2 (GDG Lucknow)
 
+GDG on Campus ......................... Technical Coordinator
 
+Google Cloud Mentor ................... Active
+
+Students Mentored ..................... 200+
+
+Google Cloud Study Jam ................ 70+ Completions
+```
 
 ---
 
-## 📊 GitHub Stats
+> current_status
+
+```text
+Building        ▰▰▰▰▰▰▰▰▱▱
+
+Contributing    ▰▰▰▰▰▰▰▱▱▱
+
+Improving       ▰▰▰▰▰▰▰▰▱▱
+```
+
+---
+
+> philosophy
+
+```text
+Build before you're ready.
+
+Ship before it's perfect.
+
+Stay curious.
+
+Repeat.
+```
+
+---
+
+> github.stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=githubutsav&show_icons=true&theme=tokyonight" height="165"/>
@@ -95,52 +93,37 @@ Developer | Intern @ Kalam Pragati
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=githubutsav&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=githubutsav&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubutsav&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
-
-
-
-## ⭐ GitHub Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/githubutsav?label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/githubutsav?label=Followers" alt="Followers" />
-  <!--<img src="https://img.shields.io/github/issues/githubutsav?label=Issues" alt="Issues" />
-  <img src="https://img.shields.io/github/forks/githubutsav?label=Forks" alt="Forks" />-->
-  
-</p>
-
-
-
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=githubutsav&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubutsav&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:utsav0111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/utsav-singh-1641b5299/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/utsavsingh_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://utsav-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-</p>
+> connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+```text
+TRANSMISSION CHANNELS OPEN
+
+SIGNAL 01 → LinkedIn
+SIGNAL 02 → X
+SIGNAL 03 → Email
+```
+
+LinkedIn → https://linkedin.com/in/utsavsinghx
+
+X → https://x.com/utsavsingh_
+
+Email → [utsav0111@gmail.com](mailto:utsav0111@gmail.com)
+
+---
+
+```bash
+$ echo "Thanks for visiting."
+
+Thanks for visiting.
+See you in the next commit.
+```
 
