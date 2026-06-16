@@ -76,22 +76,12 @@ Repeat.
 <pre>
 TRANSMISSION CHANNELS OPEN
 
-SIGNAL 01 → LinkedIn
+SIGNAL 01 → <a href="https://linkedin.com/in/utsavsinghx">linkedin.com/in/utsavsinghx</a>
+
+SIGNAL 02 → <a href="https://x.com/utsavsingh_">x.com/utsavsingh_</a>
+
+SIGNAL 03 → <a href="mailto:utsav0111@gmail.com">utsav0111@gmail.com</a>
 </pre>
-
-<a href="https://linkedin.com/in/utsavsinghx">linkedin.com/in/utsavsinghx</a>
-
-<pre>
-SIGNAL 02 → X (@utsavsingh_)
-</pre>
-
-<a href="https://x.com/utsavsingh_">x.com/utsavsingh_</a>
-
-<pre>
-SIGNAL 03 → Email
-</pre>
-
-<a href="mailto:utsav0111@gmail.com">utsav0111@gmail.com</a>
 
 
 ---
