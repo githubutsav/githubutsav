@@ -71,13 +71,17 @@ Stay curious.
 Repeat.
 ```
 ---
-## > connect
+<h2>> connect</h2>
 
-SIGNAL 01 → [linkedin.com/in/utsavsinghx](https://linkedin.com/in/utsavsinghx)
+<pre>
+TRANSMISSION CHANNELS OPEN
 
-SIGNAL 02 → [x.com/utsavsingh_](https://x.com/utsavsingh_)
+SIGNAL 01 → <a href="https://linkedin.com/in/utsavsinghx">linkedin.com/in/utsavsinghx</a>
 
-SIGNAL 03 → [utsav0111@gmail.com](mailto:utsav0111@gmail.com)
+SIGNAL 02 → <a href="https://x.com/utsavsingh_">x.com/utsavsingh_</a>
+
+SIGNAL 03 → <a href="mailto:utsav0111@gmail.com">utsav0111@gmail.com</a>
+</pre>
 
 
 ---
