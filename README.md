@@ -60,7 +60,8 @@ Google Cloud Study Jam ................ 70+ Completions
 
 ---
 
-/philosophy
+## > philosophy
+```
 Build before you're ready.
 
 Ship before it's perfect.
@@ -68,7 +69,7 @@ Ship before it's perfect.
 Stay curious.
 
 Repeat.
-
+```
 ---
 
 ## > connect
