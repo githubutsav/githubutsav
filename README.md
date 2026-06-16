@@ -77,13 +77,13 @@ Repeat.
 TRANSMISSION CHANNELS OPEN
 
 SIGNAL 01 → LinkedIn
-linkedin.com/in/utsavsinghx
+[linkedin.com/in/utsavsinghx](https://linkedin.com/in/utsavsinghx)
 
 SIGNAL 02 → X (@utsavsingh_)
-x.com/utsavsingh_
+[x.com/utsavsingh_](https://x.com/utsavsingh_)
 
 SIGNAL 03 → Email
-utsav0111@gmail.com
+[utsav0111@gmail.com](mailto:utsav0111@gmail.com)
 ```
 
 ---
@@ -93,5 +93,4 @@ $ echo "Thanks for visiting."
 
 See you in the next commit.
 ```
-````
 
