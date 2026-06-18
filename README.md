@@ -13,9 +13,9 @@ Access Granted.
 
 ```cpp
 while(alive){
-    learn();
-    build();
-    improve();
+    learn(Do one Thing);
+    build(Do it Well);
+    improve(Uxix);
 }
 ```
 
