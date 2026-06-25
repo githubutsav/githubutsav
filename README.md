@@ -15,7 +15,7 @@ Access Granted.
 while(alive){
     learn(Do one Thing);
     build(Do it Well);
-    improve(Uxix);
+    improve(Unix);
 }
 ```
 
